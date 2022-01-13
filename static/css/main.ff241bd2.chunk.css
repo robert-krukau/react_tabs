@@ -1,0 +1,2 @@
+.tabs{font-family:Arial,Helvetica,sans-serif}.tabs__content{margin:0;padding:10px;border-top:1px solid #708090}.tabs__list{display:flex;grid-gap:10px;gap:10px;list-style:none;margin:0;padding:0}.tabs__list__button{cursor:pointer;padding:5px;background:none;border:none;-webkit-transform:translateY(1px);transform:translateY(1px);font-size:20px;color:#87ceeb;border-radius:5px 5px 0 0}.tabs__list__button--active{color:#000;color:initial;background-color:#fff;border:1px solid #708090;border-bottom:none}
+/*# sourceMappingURL=main.ff241bd2.chunk.css.map */
